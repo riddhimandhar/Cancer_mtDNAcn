@@ -22,4 +22,4 @@ C> Folder '2_gene_expression_data_processing':
 
 
 D> The code '3_drug_response_resistance_risk.R' is used for calculation of likelihood score for 
-   developing chemotherapy resistance in qually sized bins of normalized mtDNA copy number 
+   developing chemotherapy resistance in cancer samples based on their normalized mtDNA copy number 
